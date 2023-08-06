@@ -70,8 +70,9 @@ python detect_and_crop.py --weights best.pt --source "\test\License Plate"
 
 \*adjust source to your folder path, if it doesn't work use full path.
 The result will be at `yolov7-object-cropping\crop` 
+
 6. Adjust ground truth and image file at `ocr_accuracy.py` according to image folder in previous step.
-7. 7. Run `ocr_accuracy.py` with vscode.
+7. Run `ocr_accuracy.py` with vscode.
 
 ### Reference
 
