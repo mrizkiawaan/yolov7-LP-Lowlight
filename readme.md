@@ -80,4 +80,4 @@ The result will be at `yolov7-object-cropping\crop` 6. Adjust ground truth and i
 - [pytesseract documentation](https://pypi.org/project/pytesseract/)
 
 ### Dataset
-You can access raw (not labeled, resized and splitted) dataset [here](kaggle.com/datasets/mmirzarizkiawan/lowlight-indonesia-lp)
+You can access raw (not labeled, resized and splitted) dataset [here](https://www.kaggle.com/datasets/mmirzarizkiawan/lowlight-indonesia-lp)
