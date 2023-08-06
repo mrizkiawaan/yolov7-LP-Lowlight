@@ -12,6 +12,7 @@ implementation and documentation of the final project entitled **"Identification
 6. Upload `dataset` to `yolov7\data` in cloned repository at google drive
 
 Link to colab [here](https://colab.research.google.com/drive/1tvsmf3IjFXlsXIwM30MKdlVGCo_qJlLB?usp=sharing)
+
 [Sample cloned repository in google drive](https://drive.google.com/drive/folders/1eYjaeslBM8M8RaoXAGwr_e5gHylmJXTv?usp=sharing)
 
 ### Editing config file
@@ -77,3 +78,6 @@ The result will be at `yolov7-object-cropping\crop` 6. Adjust ground truth and i
 - [easyocr documentation](https://github.com/JaidedAI/EasyOCR.git)
 - [kerasocr documentation](https://github.com/faustomorales/keras-ocr.git)
 - [pytesseract documentation](https://pypi.org/project/pytesseract/)
+
+### Dataset
+You can access raw (not labeled,resized and spliited) dataset [here](kaggle.com/datasets/mmirzarizkiawan/lowlight-indonesia-lp)
